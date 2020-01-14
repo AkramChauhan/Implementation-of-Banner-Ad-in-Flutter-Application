@@ -1,16 +1,27 @@
-# admob_in_flutter
+# Controlling Adbmob BannerAd in Flutter
 
-A new Flutter project.
+This Repo will explain how you can control admob banner in your flutter application.
 
-## Getting Started
+## Which Plugins Do I Need?
 
-This project is a starting point for a Flutter application.
+You will need only one plugin
+firebase_admob: ^0.5.2
 
-A few resources to get you started if this is your first Flutter project:
+## Can I Clone this Repo and Check if its loading Ads or not?
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Yes, you can clone this Repo and check how it works.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Can I use another version of Firebase_admob?
+
+I am not sure, it really depends on gradle version you are using as well as flutter version.
+
+## Which Flutter Version are you using?
+
+Here is my Flutter Doctor details
+
+[√] Flutter (Channel stable, v1.12.13+hotfix.5, on Microsoft Windows [Version 10.0.18362.356], locale en-US)
+[√] Android toolchain - develop for Android devices (Android SDK version 29.0.2)
+[√] Android Studio (version 3.5)
+[√] VS Code, 64-bit edition (version 1.41.1)
+[√] Connected device (1 available)
+• No issues found!
