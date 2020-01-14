@@ -2,6 +2,11 @@
 
 This Repo will explain how you can control admob banner in your flutter application.
 
+## Demo. In this demo you can see, when you click on show banner ad it will display Banner ad and when you click on hide banner ad, it will dispose the banner ad.
+
+![ezgif com-crop (1)](https://user-images.githubusercontent.com/13075784/72360063-6a91c380-3715-11ea-9b45-77106f136170.gif)
+
+
 ## Which Plugins Do I Need?
 
 You will need only one plugin
