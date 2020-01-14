@@ -20,9 +20,14 @@ I am not sure, it really depends on gradle version you are using as well as flut
 Here is my Flutter Doctor details
 
 [√] Flutter (Channel stable, v1.12.13+hotfix.5, on Microsoft Windows [Version 10.0.18362.356], locale en-US)
+
 [√] Android toolchain - develop for Android devices (Android SDK version 29.0.2)
+
 [√] Android Studio (version 3.5)
+
 [√] VS Code, 64-bit edition (version 1.41.1)
+
 [√] Connected device (1 available)
+
 • No issues found!
 
