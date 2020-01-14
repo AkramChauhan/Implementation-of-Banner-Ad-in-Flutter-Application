@@ -25,3 +25,4 @@ Here is my Flutter Doctor details
 [√] VS Code, 64-bit edition (version 1.41.1)
 [√] Connected device (1 available)
 • No issues found!
+
